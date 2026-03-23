@@ -15,6 +15,7 @@ An atmospheric, text-based RPG engine built in Python. Navigate a dangerous fore
 To play Mork's Quest, you need to have **Python** installed. 
 
 ###how to run###
+There is a standalone .exe to download and run
 Windows: Simply double-click Play_Morks_Quest.bat.
 Other: Run python Text-based-game.py in your terminal.
 

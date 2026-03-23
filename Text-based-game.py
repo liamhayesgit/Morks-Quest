@@ -6,6 +6,16 @@ import time
 from colorama import Fore, Style
 from art import show_victory_screen, show_game_over
 auto_reset = True
+import subprocess
+import sys
+
+try:
+    from colorama import Fore, Style
+except ImportError:
+    print("Installing required library: Colorama...")
+    subprocess.check_call([sys.executable, "-m", "pip", "install", "colorama"])
+    from colorama import Fore, Style
+    
 #Combat system#
 def start_combat(hero, target, room_data):  
     while hero.health > 0 and target.health > 0:

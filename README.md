@@ -24,6 +24,8 @@ In combat, use commands like [attack], [cast spell], [sneak attack], or [use ite
 Type the name of the item (e.g., magic potion) to consume it.
 
 ### 1. Install Dependencies
+If you don't have Python it will need to be downloaded from here: https://www.python.org/downloads/
+if pip install colorama doesnt work add py -m in cmd
 This game uses the `colorama` library for its colorful UI. Open your terminal/command prompt and run:
 ```bash
 pip install colorama

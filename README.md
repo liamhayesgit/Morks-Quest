@@ -18,3 +18,7 @@ To play Mork's Quest, you need to have **Python** installed.
 This game uses the `colorama` library for its colorful UI. Open your terminal/command prompt and run:
 ```bash
 pip install colorama
+
+###how to run###
+Windows: Simply double-click Play_Morks_Quest.bat.
+Other: Run python Text-based-game.py in your terminal.

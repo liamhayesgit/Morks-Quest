@@ -17,6 +17,7 @@ To play Mork's Quest, you need to have **Python** installed.
 ###how to run###
 Windows: Simply double-click Play_Morks_Quest.bat.
 Other: Run python Text-based-game.py in your terminal.
+
 🕹️ Controls
 Move using UP, DOWN, or LEFT.
 In combat, use commands like [attack], [cast spell], [sneak attack], or [use item].
